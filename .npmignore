@@ -1,0 +1,9 @@
+/src
+node_modules
+.gitignore
+yarn.lock
+.idea
+.cache
+.storybook
+.travis.yml
+jest.config.js

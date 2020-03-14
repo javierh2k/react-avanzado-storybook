@@ -1,0 +1,23 @@
+{
+    "editor.renderIndentGuides": false,
+    "[javascript]": {
+      "editor.formatOnSave": false,
+      "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[javascriptreact]": {
+      "editor.formatOnSave": false
+    },
+    "eslint.autoFixOnSave": true,
+    "eslint.alwaysShowStatus": true,
+    "editor.formatOnSave": true,
+    //"liveServer.settings.donotShowInfoMsg": true,
+    "prettier.disableLanguages": ["javascript", "javascriptreact"],
+    "files.watcherExclude": {
+      "**/.git/objects/**": true,
+      "**/node_modules/**": true
+    },
+    "javascript.updateImportsOnFileMove.enabled": "always",
+    "editor.codeActionsOnSave": {
+      "source.fixAll.eslint": true
+    }
+  }

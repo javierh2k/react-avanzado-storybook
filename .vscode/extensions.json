@@ -1,0 +1,25 @@
+{
+    "recommendations": [
+      "EditorConfig.EditorConfig",
+      "christian-kohler.path-intellisense",
+      "mikestead.dotenv",
+      "Orta.vscode-jest",
+      "peterjausovec.vscode-docker",
+      "nucllear.vscode-extension-auto-import",
+      "formulahendry.terminal",
+      "eamodio.gitlens",
+      "dbaeumer.vscode-eslint",
+      "spywhere.guides",
+      "wayou.vscode-todo-highlight",
+      "formulahendry.auto-complete-tag",
+      "coenraads.bracket-pair-colorizer-2",
+      "spywhere.guides",
+      "esbenp.prettier-vscode",
+      "sanfilippopablo.react-component-refactor",
+      "alduncanson.react-hooks-snippets",
+      "suming.react-proptypes-generate",
+      "jpoissonnier.vscode-styled-components",
+      "johnuphoff.vscode-styled-sort"
+    ]
+  }
+  
